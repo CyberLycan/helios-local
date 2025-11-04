@@ -31,17 +31,20 @@ To create a unified platform capable of:
 - Clone the repository
 
 -> git clone https://github.com/yourusername/helios.git
+
 -> cd helios
 
 
 - Create and activate a Python virtual environment
 
 - Install dependencies
+  
 -> pip install -r requirements.txt
 
 - Launch the monitoring stack via Docker Compose
 
 - Run the ML microservice for predictive insights
+  
 
 **Outcome**
 
@@ -52,11 +55,14 @@ To create a unified platform capable of:
 - Displaying interactive dashboards
 
 - Extending easily to cloud infrastructure or multi-node setups
+  
 
 **Author**
 
 _Karthik Chyawan_
 Student | DevOps & Cloud Enthusiast | Author & Poet
+
 Linkedin -> linkedin.com/in/karthikchyawan
+
 Github profile -> github.com/CyberLycan
 
