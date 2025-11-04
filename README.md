@@ -30,7 +30,7 @@ To create a unified platform capable of:
 
 - Clone the repository
 
--> git clone https://github.com/yourusername/helios.git
+-> git clone https://github.com/CyberLycan/helios.git
 
 -> cd helios
 
@@ -62,7 +62,7 @@ To create a unified platform capable of:
 _Karthik Chyawan_
 Student | DevOps & Cloud Enthusiast | Author & Poet
 
-Linkedin -> linkedin.com/in/karthikchyawan
+Linkedin -> https://linkedin.com/in/karthikchyawan
 
-Github profile -> github.com/CyberLycan
+Github profile -> https://github.com/CyberLycan
 
